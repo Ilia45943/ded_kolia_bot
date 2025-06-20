@@ -18,7 +18,7 @@ with open("kolya_persona.txt", "r", encoding="utf-8") as f:
     kolya_prompt = f.read()
 
 # Адрес API AI21
-AI21_URL = "https://api.ai21.com/studio/v1/j1-large/complete"
+AI21_URL = "https://api.ai21.com/studio/v1/j2-light/complete"
 
 # Функция для генерации ответа от AI21
 def generate_ai21_response(prompt_text):
