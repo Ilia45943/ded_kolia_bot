@@ -1,1 +1,0 @@
-# ded_kolia_bot
